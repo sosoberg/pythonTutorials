@@ -4,7 +4,7 @@ Python tutorials pushed to my github to display my progress in learning python
 
 ## Python Tutorial Sections: 
 
-### [Beginner Work](Beginner)
+### [Beginner Work](Beginner) - the Basics of Python
 - [Youtube Video from freeCodeCamps.org](https://www.youtube.com/watch?v=rfscVS0vtbw&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB&index=1)
     - [Basic Calculator](Beginner/basicCalculator.py)
     - [Improved Calculator](Beginner/betterCalculator.py)
@@ -23,12 +23,23 @@ Python tutorials pushed to my github to display my progress in learning python
     - [Tuples](Beginner/tuples.py)
     - [User Inputs](Beginner/userInput.py)
     - [Variables](Beginner/variable.py)
-    - [While Loops](Beginner/whileLoop.py)
+    - [Class Functions](Beginner/classFunctions)
+    - [Inheritance](Beginner/inheritance)
+    - [Modules](Beginner/modulesTutorial)
+    - [Object Classes](Beginner/objectsClasses)
+    - [Reading Files](Beginner/readingFiles)
+    - [Writing Files](Beginner/writingFiles)
 
-### [Intermediate Work](Intermediate)
+### [Intermediate Work](Intermediate) - Digging Deeper into Python
 - [Youtube Video from freeCodeCamps.org](https://www.youtube.com/watch?v=HGOBQPFzWKo&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB&index=24&t=17s)
     - [Lists](Intermediate/lists.py)
     - [Tuples](Intermediate/tuples.py)
     - [Dictionaries](Intermediate/dictionaries.py)
     - [Sets](Intermediate/sets.py)
     - [Strings](Intermediate/strings.py)
+
+### [Tkinter](Tkinter) - Learning Tkinter 
+- [Youtube Video from freeCodeCamps.org](https://www.youtube.com/watch?v=YXPyB4XeYLA&list=WL&index=4)
+
+### [Data Analysis](Data_Analysis)
+- [Youtube Video from freeCodeCamps.org](https://www.youtube.com/watch?v=GPVsHOlRBBI&list=WL&index=20)

@@ -55,3 +55,7 @@ Learning Tkinter and how to create interactive GUI's
 - [Youtube Video from freeCodeCamps.org](https://www.youtube.com/watch?v=GPVsHOlRBBI&list=WL&index=20)
 
 Data analysis tutorials
+
+## Network Programming
+
+https://www.youtube.com/watch?v=FGdiSJakIS4&t=729s

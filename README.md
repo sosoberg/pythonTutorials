@@ -45,6 +45,7 @@ More advanced fundamentals of Python - simliar to the basics but taken to a high
     - [Dictionaries](Intermediate/dictionaries.py)
     - [Sets](Intermediate/sets.py)
     - [Strings](Intermediate/strings.py)
+    - [Collections](Intermediate/collections.py)
 
 ### [Tkinter](Tkinter) - Learning Tkinter 
 - [Youtube Video from freeCodeCamps.org](https://www.youtube.com/watch?v=YXPyB4XeYLA&list=WL&index=4)
